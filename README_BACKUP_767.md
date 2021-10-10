@@ -3,15 +3,15 @@ this is a simple reading file
 some change 
 
 cap a la branca. ja estem a la branca. 
+<<<<<<< HEAD
 asdfasdfasdf
 asdfasdf
 asdfasfd
 asdfasfdasf
 asdfasdfa
 asdfasdfsaf
-ajghjdfasfd
+asdfasfd
+=======
 
 canvi a very-bad 
-git aasfasf
-
-he triat both
+>>>>>>> very-bad

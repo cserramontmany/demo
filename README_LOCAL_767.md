@@ -9,9 +9,4 @@ asdfasfd
 asdfasfdasf
 asdfasdfa
 asdfasdfsaf
-ajghjdfasfd
-
-canvi a very-bad 
-git aasfasf
-
-he triat both
+asdfasdfjsakfkjsdfkasfd
