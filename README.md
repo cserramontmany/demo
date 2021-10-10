@@ -15,3 +15,5 @@ canvi a very-bad
 git aasfasf
 
 he triat both
+
+git stash que cony es. 
